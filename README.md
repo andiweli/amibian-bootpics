@@ -12,4 +12,4 @@ https://gunkrist79.wixsite.com/amibian
 4. Look for the path ~/amibian/boot_pictures/
 5. Copy the bootpics from your USB stick to the mentioned path (simply overwrite existing non relevant pictures)
 
-![Example bootpics](/img/preview-bootpics.jpg)
+![Example bootpics](/img/amibian-bootpics.jpg)

@@ -2,7 +2,7 @@
 Custom bootup-pictures for the AMIGA Emulator "Amibian" on Raspberry Pi.<br>
 
 ## What you need?
-Amibian 1.4.1001
+> Amibian 1.4.1001
 https://gunkrist79.wixsite.com/amibian
 
 ## How to install?

@@ -17,5 +17,6 @@ https://gunkrist79.wixsite.com/amibian
 ## How to make your own bootpics?
 Just download the Photoshop source file with some layers of Logos and AMIGA styles so you can start editing your own bootpics.
 
-*AMIGA © Amiga Inc./ Cloanto/ Hyperion*
+
+*AMIGA © Amiga Inc./ Cloanto/ Hyperion*<br>
 *Amibian © Gunnar Kristjánsson*
